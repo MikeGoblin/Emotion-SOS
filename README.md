@@ -6,7 +6,6 @@ This is the repository of 'Adolescent Psychological Rescue SOS System Based on E
 ## To-do List
 - [x] Presentation Video
 - [x] Power Point File
-- [ ] Full Code
 
 ## Thanks
-Thanks to each member of our group, like [Yang](https://github.com/Uestc-Young) and [Baby Hua](https://github.com/Aboutime233).
+Thanks to each member of our group, e.g., [Yang](https://github.com/Uestc-Young) and [Baby Hua](https://github.com/Aboutime233).
